@@ -3,6 +3,9 @@
 ## Procedure
 
 ```bash 
+pnpm -v
+7.11.0
+
 pnpm install
 
 pnpm story:dev
